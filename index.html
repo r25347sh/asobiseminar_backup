@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asobi Lab. CMS Backup Viewer</title>
+  <link rel="stylesheet" href="src/css/index.css">
+</head>
+<body>
+  <header class="header">
+    <div class="brand">🎮 Asobi Lab. <span>Backup</span></div>
+    <button type="button" id="btn-refresh" class="btn ghost">🔄 更新</button>
+  </header>
+  <main class="main">
+    <h1>変更履歴・バックアップ一覧</h1>
+    <p class="sub">CMS で保存されたすべての変更ログとフルバックアップへの参照です。</p>
+
+    <div class="restore-box">
+      <label>バックアップパス（復元用）</label>
+      <input id="restore-sha" type="text" placeholder="data/pages/members/xxx.html/2026-09-01-....html">
+      <button type="button" id="btn-restore-hint" class="btn primary">復元手順を表示</button>
+      <p class="muted" style="margin-top:.6rem">実際の復元はメインサイトの CMS「変更履歴」タブ、または管理者権限で行います。</p>
+    </div>
+
+    <div class="filter-row">
+      <input id="q" type="search" placeholder="検索（ユーザー・メッセージ・パス…）">
+      <select id="path-filter">
+        <option value="">すべてのページ</option>
+      </select>
+    </div>
+    <p id="status" class="muted">読み込み中…</p>
+    <div id="list" class="list"></div>
+
+    <div id="detail" class="details hidden">
+      <h2 id="detail-title">詳細</h2>
+      <pre id="detail-body"></pre>
+    </div>
+  </main>
+  <script src="src/js/index.js"></script>
+</body>
+</html>
