@@ -8,5 +8,15 @@
     "datetime": "2026-09-01T10:24:12",
     "ip": "157.17.5.254",
     "backupPath": "data/index.html/2026-09-01-10-24-12.html"
+  },
+  {
+    "id": "mti4xuadj5cpt",
+    "path": "pages/members/r22289hh.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "テスト（lockカスタム属性の削除）",
+    "datetime": "2026-09-01T12:56:26",
+    "ip": "157.17.5.254",
+    "backupPath": "data/pages/members/r22289hh.html/2026-09-01-12-56-26.html"
   }
 ]
