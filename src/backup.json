@@ -225,5 +225,14 @@
     "message": "初期状態（全CSS・CMS・JS含むフルスナップショット）",
     "datetime": "2026-09-02T16:06:00",
     "backupPath": "snapshots/初期状態/"
+  },
+  {
+    "id": "mtkprm20gdjim",
+    "path": "index.html",
+    "userId": "r25347sh",
+    "userName": "佐藤晴",
+    "message": "テスト修正。自動配置機能。",
+    "datetime": "2026-09-03T08:15:00",
+    "backupPath": "data/index.html/2026-09-03-08-15-00.html"
   }
 ]
