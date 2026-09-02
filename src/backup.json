@@ -27,5 +27,203 @@
     "message": "微細なテスト変更",
     "datetime": "2026-09-02T16:01:14",
     "backupPath": "data/map.html/2026-09-02-16-01-14.html"
+  },
+  {
+    "id": "init2026090216060000",
+    "path": "admin.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/admin.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060001",
+    "path": "index.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/index.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060002",
+    "path": "map.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/map.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060003",
+    "path": "pages/Matsumaru_T.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/Matsumaru_T.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060004",
+    "path": "pages/about_This_Site.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/about_This_Site.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060005",
+    "path": "pages/about_asobi.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/about_asobi.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060006",
+    "path": "pages/groups/arch.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/groups/arch.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060007",
+    "path": "pages/groups/fashion.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/groups/fashion.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060008",
+    "path": "pages/groups/skate.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/groups/skate.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060009",
+    "path": "pages/members/r22289hh.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r22289hh.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060010",
+    "path": "pages/members/r22321fs.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r22321fs.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060011",
+    "path": "pages/members/r22497kk.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r22497kk.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060012",
+    "path": "pages/members/r22570kr.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r22570kr.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060013",
+    "path": "pages/members/r22661kk.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r22661kk.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060014",
+    "path": "pages/members/r25173ok.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r25173ok.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060015",
+    "path": "pages/members/r25321sa.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r25321sa.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060016",
+    "path": "pages/members/r25339sc.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r25339sc.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060017",
+    "path": "pages/members/r25347sh.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r25347sh.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060018",
+    "path": "pages/members/r25404jk.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r25404jk.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060019",
+    "path": "pages/members/r25660na.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r25660na.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "init2026090216060020",
+    "path": "pages/members/r25917yk.html",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "data/pages/members/r25917yk.html/2026-09-02-16-06-00.html"
+  },
+  {
+    "id": "initfull20260902160600",
+    "path": "snapshots/初期状態/",
+    "userId": "r25347sh",
+    "userName": "r25347sh",
+    "message": "初期状態（全CSS・CMS・JS含むフルスナップショット）",
+    "datetime": "2026-09-02T16:06:00",
+    "backupPath": "snapshots/初期状態/"
   }
 ]
