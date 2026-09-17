@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "type": "group",
+  "groupKey": "fashion",
+  "label": "ファッションについて",
+  "htmlPath": "pages/groups/fashion.html",
+  "goalHtml": "人が\"おしゃれ\"と感じる理由を解き明かす。",
+  "whatHtml": "<p>何をもっておしゃれというのか</p>",
+  "whyHtml": "<p>日常で「あの人おしゃれ」「あの人の服微妙」と感じるのはなぜ？という疑問から。</p>",
+  "howHtml": "<p>色んな人の考えを調査して情報を集め、共通点を見出し考察する。</p>",
+  "resultHtml": "<p></p>",
+  "attachments": [],
+  "updatedAt": "2026-09-17T06:25:48.299Z",
+  "updatedBy": "HnKYa"
+}
