@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "type": "member",
+  "memberId": "r22570kr",
+  "displayName": "草深りお",
+  "class": "5C",
+  "groupKey": "fashion",
+  "favoriteColorMode": "text",
+  "favoriteColor": "",
+  "favoriteColorHex": null,
+  "favoriteColorHexes": [],
+  "hobbies": "音楽、ドラマ鑑賞",
+  "hobbyTriggerHtml": "<b>音楽を楽しくなったり</b>、<b>悲しくなったりさせる力に魅力を感じたから。</b>",
+  "growthHtml": "<p></p>",
+  "messageHtml": "<p></p>",
+  "attachments": [],
+  "htmlPath": "pages/members/r22570kr.html",
+  "updatedAt": "2026-09-17T06:23:01.264Z",
+  "updatedBy": "HnKYa"
+}
