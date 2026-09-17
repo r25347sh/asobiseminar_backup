@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "type": "member",
+  "memberId": "r25321sa",
+  "displayName": "齊藤絢太",
+  "class": "5C",
+  "groupKey": "arch",
+  "favoriteColorMode": "text",
+  "favoriteColor": "あか",
+  "favoriteColorHex": null,
+  "favoriteColorHexes": [],
+  "hobbies": "お菓子作り",
+  "hobbyTriggerHtml": "<p>友達が好きだったから始めた</p>",
+  "growthHtml": "<p></p>",
+  "messageHtml": "<p></p>",
+  "attachments": [],
+  "htmlPath": "pages/members/r25321sa.html",
+  "updatedAt": "2026-09-17T06:30:15.583Z",
+  "updatedBy": "YTH8x"
+}
