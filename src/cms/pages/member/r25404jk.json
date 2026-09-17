@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "type": "member",
+  "memberId": "r25404jk",
+  "displayName": "神季美花",
+  "class": "5F",
+  "groupKey": "fashion",
+  "favoriteColorMode": "text",
+  "favoriteColor": "エメラルドグリーン",
+  "favoriteColorHex": null,
+  "favoriteColorHexes": [],
+  "hobbies": "アニメ、バスケ",
+  "hobbyTriggerHtml": "<p>父親の影響。</p>",
+  "growthHtml": "<p></p>",
+  "messageHtml": "<p></p>",
+  "attachments": [],
+  "htmlPath": "pages/members/r25404jk.html",
+  "updatedAt": "2026-09-17T06:29:53.594Z",
+  "updatedBy": "Rcore"
+}
