@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "type": "teacher",
+  "teacherId": "matsumaru",
+  "displayName": "松丸先生",
+  "favoriteColorMode": "text",
+  "favoriteColor": "緑、黄、赤",
+  "favoriteColorHex": null,
+  "favoriteColorHexes": [],
+  "hobbies": [
+    "スノーボード、車中泊、サッカー（競技/戦術）"
+  ],
+  "career": [
+    {
+      "title": "教師",
+      "detail": ""
+    }
+  ],
+  "playMeaningHtml": "人生そのもの。",
+  "messageHtml": "<p></p>",
+  "attachments": [],
+  "htmlPath": "pages/Matsumaru_T.html",
+  "updatedAt": "2026-09-18T03:54:49.074Z",
+  "updatedBy": "matsumaru"
+}
